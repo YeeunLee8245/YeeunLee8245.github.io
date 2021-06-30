@@ -1,6 +1,6 @@
 ---
 title: "Kotlin"
-permalink: /categories/kotiln/
+permalink: /categories/kotlin/
 layout: category
 author_profile: true
 toc_sticky: true
