@@ -1,6 +1,6 @@
 ---
 title: "Android studio"
-permalink: /categories/Android_Studio/
+permalink: /categories/android_studio/
 layout: category
 author_profile: true
 toc_sticky: true
