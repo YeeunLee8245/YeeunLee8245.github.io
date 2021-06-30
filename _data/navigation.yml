@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Android studio"
+    url: /categories/android_studio/
   - title: "블로그 방문하기"
     url: https://devinlife.com/
   - title: "윤동주"
