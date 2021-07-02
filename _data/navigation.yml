@@ -4,6 +4,8 @@ main:
     url: /categories/android_studio/
   - title: "Kotlin"
     url: /categories/kotlin/
+  - title: "Algorithm"
+    url: /categories/algorithm/
   - title: "블로그 방문하기"
     url: https://devinlife.com/
   - title: "윤동주"
