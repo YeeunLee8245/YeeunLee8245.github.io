@@ -96,7 +96,7 @@ author:
   avatar           : "/assets/images/github_me.jpg"
   bio              : "학교 다니면서 코딩하는 학생 개발자"
   location         : "South Korea"
-  email            : "leeyeah8245@gmail.com"
+  #email            : "leeyeah8245@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
