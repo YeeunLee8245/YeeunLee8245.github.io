@@ -6,8 +6,8 @@ main:
     url: /categories/kotlin/
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "처음으로"
-    url: https://yeeunlee8245.github.io/
+  - title: "Project"
+    url: /categories/project/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
