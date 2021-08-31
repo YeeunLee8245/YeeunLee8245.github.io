@@ -2,7 +2,7 @@
 title:  "코틀린의 특징 5가지"
 excerpt: "Null 안정성, 함수 확장, 함수형 프로그래밍, data 클래스, Immutable 변수"
 header:
-  teaser: /assets/images/yoondongju-teaser.jpg
+  teaser: /assets/images/kotlin.png
 
 categories:
   - Kotlin
