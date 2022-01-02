@@ -2,7 +2,7 @@
 title:  "2022 새해를 맞이하며"
 excerpt: "새해, 방학, 계획, 다짐, 목표"
 header:
-  teaser: /assets/images/2022HNY.png
+  teaser: /assets/images/2022HNY.jpg
 
 categories:
   - 일상 돌아보기
