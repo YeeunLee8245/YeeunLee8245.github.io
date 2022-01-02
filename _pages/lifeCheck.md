@@ -6,4 +6,4 @@ author_profile: true
 toc_sticky: true
 taxonomy: 일상돌아보기
 ---
-일상에서 일어난 일에 대한 생각을 적습니다.
+일상에서 일어난 일에 대한 생각을 적습니다.1
