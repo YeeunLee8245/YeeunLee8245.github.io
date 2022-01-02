@@ -1,7 +1,7 @@
 ---
 title: "일상 돌아보기"
 layout: lifeCheck
-permalink: /categories/lifeCheck
+permalink: /categories/lifeCheck/
 author_profile: true
 taxonomy: 일상 돌아보기
 ---
