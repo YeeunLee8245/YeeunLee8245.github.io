@@ -13,12 +13,6 @@ last_modified_at: 2022-01-02
 
 <img src="/assets/images/2022HNY.jpg">
 
-
-
-<img src="/assets/images/2022HNY.jpg">
-
-
-
 ## 1. 새해, 새로운 시작
 
 대학교 4년 중 가장 힘들 것이라고 생각했던 3학년~~(3학년이라고 쓰고 사망년이라고 읽는다)~~이 지나가고 올해로 4학년이 되었다.<br/>
