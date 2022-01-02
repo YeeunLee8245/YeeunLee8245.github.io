@@ -6,7 +6,7 @@ main:
     url: /categories/kotlin/
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "일상 점검"
+  - title: "일상 돌아보기"
     url: /categories/lifeCheck
   - title: "Project"
     url: /categories/project/
