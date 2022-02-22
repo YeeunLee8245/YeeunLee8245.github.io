@@ -1,7 +1,6 @@
 ---
 title:  "행복저금통 개인정보처리방침"
 excerpt: "개인정보처리방침"
-toc: true
 header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
