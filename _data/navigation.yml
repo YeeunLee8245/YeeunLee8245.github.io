@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Android"
-    url: /categories/android_studio/
+    url: /categories/android/
   - title: "Kotlin"
     url: /categories/kotlin/
   - title: "Algorithm"
