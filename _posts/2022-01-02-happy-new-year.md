@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/2022HNY.jpg
 
 categories:
-  - 일상 돌아보기
+  - etc.
 tags:
   - 일상
 last_modified_at: 2022-01-02
