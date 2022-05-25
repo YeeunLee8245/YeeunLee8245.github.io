@@ -47,10 +47,10 @@ layout_constrainedWidth을 true로 설정하여 View가 부자연스럽게 잘�
 * app:layout_constrainedWidth="true"
 
   <img src="/assets/images/20220525_width01.png"><br>
+  
+  View의 최대 크기를 부모 Layout(ConstraintLayout)에 맞춰 지정했기 때문에 텍스트 수가 길어지더라도 부모 Layout 너비에 맞춰 크기가 조절된다.<br>
 
-​	View의 최대 크기를 부모 Layout(ConstraintLayout)에 맞춰 지정했기 때문에 텍스트 수가 길어지더라도 부모 Layout 너비에 맞춰 크기가 조절된다.<br>
-
-텍스트 뒤에 말줄임표(...)는 android:ellipsize="end" 속성을 정의했기 때문이다.<br>
+  텍스트 뒤에 말줄임표(...)는 android:ellipsize="end" 속성을 정의했기 때문이다.<br>
 
 ## 3. 마무리
 
