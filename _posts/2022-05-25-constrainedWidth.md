@@ -1,19 +1,18 @@
-|      | ---                                                          |
-| ---- | ------------------------------------------------------------ |
-|      | title: "ConstraintLayout: layout_constrainedWidth/Height 알아보기" |
-|      | excerpt: "ConstraintLayout, layout_constrainedWidth, layout_constrainedHeight" |
-|      | toc: true                                                    |
-|      | toc_sticky: true                                             |
-|      | toc_label: "페이지 목차"                                     |
-|      | header:                                                      |
-|      | teaser: /assets/images/20220524_width01.png                  |
-|      |                                                              |
-|      | categories:                                                  |
-|      | - Android                                                    |
-|      | tags:                                                        |
-|      | - android, kotlin                                            |
-|      | last_modified_at: 2022-05-25                                 |
-|      | ---                                                          |
+---
+title: "ConstraintLayout: layout_constrainedWidth/Height 알아보기"
+excerpt: "ConstraintLayout, layout_constrainedWidth, layout_constrainedHeight"
+toc: true
+toc_sticky: true
+toc_label: "페이지 목차"
+header:
+  teaser: /assets/images/20220524_width01.png
+
+categories:
+  - Android
+tags:
+  - android, kotlin
+last_modified_at: 2022-05-25
+---
 
 ## 목차
 
