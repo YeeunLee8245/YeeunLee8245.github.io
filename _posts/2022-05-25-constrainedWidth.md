@@ -38,7 +38,7 @@ layout_constrainedWidth을 true로 설정하여 View가 부자연스럽게 잘�
 
 * app:layout_constrainedWidth="false"
 
-  <img src="/assets/images/20220524_width02.png"><br>
+  <img src="/assets/images/20220525_width02.png"><br>
 
   default는 false로 지정되어있기 때문에 속성을 정의하지 않아도 false한 것과 같다.<br>
 
@@ -46,7 +46,7 @@ layout_constrainedWidth을 true로 설정하여 View가 부자연스럽게 잘�
 
 * app:layout_constrainedWidth="true"
 
-  <img src="/assets/images/20220524_width01.png"><br>
+  <img src="/assets/images/20220525_width01.png"><br>
 
 ​	View의 최대 크기를 부모 Layout(ConstraintLayout)에 맞춰 지정했기 때문에 텍스트 수가 길어지더라도 부모 Layout 너비에 맞춰 크기가 조절된다.<br>
 
