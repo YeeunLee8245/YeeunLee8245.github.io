@@ -10,7 +10,8 @@ header:
 categories:
   - Android
 tags:
-  - android, kotlin
+  - android
+  - kotlin
 last_modified_at: 2022-05-25
 ---
 
