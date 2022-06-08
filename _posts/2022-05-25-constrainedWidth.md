@@ -29,11 +29,11 @@ last_modified_at: 2022-05-25
 
 우선 왜 필요할까?<br>
 
-특정 View의 최대 크기를 부모 Layout(ConstraintLayout)에 맞춰 지정해주는 것이다.<br>
+특정 View의 최대 크기를 부모 Layout(ConstraintLayout)에 맞춰 지정해주고싶을 때를 생각해보자.<br>
 
 예를 들어 View가 텍스트 수에 따라 길이가 달라질 때, 텍스트 수가 화면 가로 길이를 벗어날 정도로 길다면  
 
-layout_constrainedWidth을 true로 설정하여 View가 부자연스럽게 잘리는 것을 방지해준다.<br>
+layout_constrainedWidth을 true로 설정하여 View가 부자연스럽게 잘리는 것을 방지해줄 수 있다.<br>
 
 ## 2. 활용
 
