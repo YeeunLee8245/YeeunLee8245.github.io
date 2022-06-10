@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "페이지 목차"
 header:
-  teaser: /assets/images/2022-06-10-fragmentAddReplace.png
+  teaser: /assets/images/20220610_fragmentAddReplace.png
 
 categories:
   - Android
