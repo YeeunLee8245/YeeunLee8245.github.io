@@ -175,7 +175,7 @@ observe는 LiveData가 가지고 있는 value가 바뀔 때 사용자가 정의�
 
 <br>
 
-## 마무리
+## 4. 마무리
 
 addToBackStack()을 호출하면 add()와 replace()로 더 다양한 액션이 가능하다(뒤로가기 버튼을 눌렀을 때).<br>
 
