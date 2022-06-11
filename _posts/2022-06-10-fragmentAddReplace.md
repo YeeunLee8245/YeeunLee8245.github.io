@@ -33,7 +33,7 @@ FragmentManager의 beginTransaction()을 통해 호출될 때 두 메서드의 �
 
 따라서 새로운 프래그먼트가 추가되었다고 한들 기존 프래그먼트의 생명주기에는 영향을 주지 않는다.<br>
 
-```xml
+```mbox
 <1. 프래그먼트 A add()>
 Fragment A: onAttach() ▶️ onCreate() ▶️ onCreateView() ▶️ onStart() ▶️ onResume()
   
@@ -50,7 +50,7 @@ Fragment B: onAttach() ▶️ onCreate() ▶️ onCreateView() ▶️ onStart() 
 
 따라서 add()로 추가되었던 프래그먼트가 여러개일지라도 여태까지 추가된 프래그먼트들은 전부 제거하고 replace()를 통해 새 프래그먼트로 교체된다. <br>
 
-```xml
+```mbox
 <1. 프래그먼트 A add()>
 Fragment A: onAttach() ▶️ onCreate() ▶️ onCreateView() ▶️ onStart() ▶️ onResume()
   
