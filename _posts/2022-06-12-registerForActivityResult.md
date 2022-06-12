@@ -52,20 +52,20 @@ B 액티비티에서 해야할 작업을 끝내고 다시 A 액티비티로 돌�
 
 ```kotlin
 class ActivityA : AppCompatActivity() {
-	private lateinit var textLauncher: ActivityResultLauncher<Intent>
+  private lateinit var textLauncher: ActivityResultLauncher<Intent>
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
-    
+
     // B액티비티 종료 콜백 정의
     textLauncher = registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result: ActivityResult ->
       if (result.resultCode == Activity.RESULT_OK) {	// 액티비티B 정상종료 확인
-       	val txt: String? = result.data?.getStringExtra("name")	// 값 추출
+        val txt: String? = result.data?.getStringExtra("name")	// 값 추출
         txt?.let{
           Toast.makeText(this,"B액티비티에서 입력한 text:${txt}",Toast.LENGTH_SHORT).show()
         }
-    	}                                                                                       
-  	}
-    
+      }                                                                                       
+    }
+
     val intentB = Intent(this, ActivityB::class.java)
     textLauncher.launch(intentB)	// B액티비티 호출
   }
