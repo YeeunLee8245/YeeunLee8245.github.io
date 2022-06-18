@@ -55,7 +55,7 @@ Fragment B: onAttach() ▶️ onCreate() ▶️ onCreateView() ▶️ onStart() 
 Fragment A: onAttach() ▶️ onCreate() ▶️ onCreateView() ▶️ onStart() ▶️ onResume()
   
 <2. 프래그먼트 B replace()>
-Fragment A: onPause() ▶️ onStop() ▶️ onDestroyView( ▶️ onDestroy()  ▶️ onDetach()
+Fragment A: onPause() ▶️ onStop() ▶️ onDestroyView() ▶️ onDestroy()  ▶️ onDetach()
 Fragment B: onAttach() ▶️ onCreate() ▶️ onCreateView() ▶️ onStart() ▶️ onResume()
 ```
 
