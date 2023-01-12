@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/bio-photo-keyboard-teaser.jpg
 
 categories:
-  - Project
+  - etc.
 tags:
   - project
 last_modified_at: 2022-02-22
