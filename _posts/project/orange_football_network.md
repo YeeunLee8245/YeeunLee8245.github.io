@@ -55,7 +55,7 @@ last_modified_at: 2023-01-12
 - 전화번호 인증
   
 
- ![전화번호 인증 화면 1](/assets/images/20230112_ofn_phone_number_ready.jpeg?msec=1673506145205) ![title](/assets/images/20230112_ofn_phone_number_send.png?msec=1673506348412)
+ ![전화번호 인증 화면 1](/assets/images/20230112_ofn_phone_number_ready.jpeg?msec=1673507020778) ![전화번호 인증 화면 2](/assets/images/20230112_ofn_phone_number_send.png?msec=1673507020778)
 
 - 프로필 설정
   
@@ -75,12 +75,12 @@ last_modified_at: 2023-01-12
 - 강사(좌), 프로그램(우) 화면
   
 
- ![강사 화면](/assets/images/20230112_ofn_instructor.gif?msec=1673506913936) ![프로그램](/assets/images/20230112_ofn_program.gif?msec=1673506934563)
+ ![강사 화면](/assets/images/20230112_ofn_instructor.gif?msec=1673507020778) ![프로그램](/assets/images/20230112_ofn_program.gif?msec=1673507020778)
 
 - 로그인(좌), 홈(우) 화면
   
 
- ![로그인](/assets/images/20230112_ofn_login.gif?msec=1673507020778) ![홈 화면](/assets/images/20230112_ofn_home.gif?msec=1673507041172)
+ ![로그인](/assets/images/20230112_ofn_login.gif?msec=1673507020778) ![홈 화면](/assets/images/20230112_ofn_home.gif?msec=1673507020778)
 
 ## 발생문제 및 해결방법
 
