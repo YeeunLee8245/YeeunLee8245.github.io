@@ -55,7 +55,7 @@ last_modified_at: 2023-01-12
 - 전화번호 인증
   
 
- ![전화번호 인증 화면 1](/assets/images/20230112_ofn_phone_number_ready.jpeg?msec=1673507020778){: width="50%"} ![전화번호 인증 화면 2](/assets/images/20230112_ofn_phone_number_send.png?msec=1673507020778)
+ <img src="/assets/images/20230112_ofn_phone_number_ready.jpeg" width="200"/> <img src="/assets/images/20230112_ofn_phone_number_send.png" width="200"/>
 
 - 프로필 설정
   
