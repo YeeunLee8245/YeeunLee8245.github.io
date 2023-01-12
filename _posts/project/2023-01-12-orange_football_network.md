@@ -1,6 +1,6 @@
 ---
 title:  "Orange Football Network: OFN"
-excerpt: "Project, 인턴"
+excerpt: "project, 인턴"
 toc: true
 toc_sticky: true
 toc_label: "페이지 목차"
@@ -10,7 +10,7 @@ header:
 categories:
   - Project
 tags:
-  - 일상
+  - project
 last_modified_at: 2023-01-12
 ---
 
