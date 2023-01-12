@@ -60,27 +60,26 @@ last_modified_at: 2023-01-12
 - 프로필 설정
   
 
-![프로필 수정](/assets/images/20230112_ofn_edit_profile.png?msec=1673506521012){: width="50%"}
+<img src="/assets/images/20230112_ofn_edit_profile.png" width="200"/>
 
 - 검색
   
 
-![검색](/assets/images/20230112_ofn_search.gif?msec=1673506790724){: width="50%"}
+<img src="/assets/images/20230112_ofn_search.gif" width="200"/>
 
 - 알림 화면
   
 
-![알림](/assets/images/20230112_ofn_notification.gif?msec=1673506857934){: width="50%"}
-
+<img src="/assets/images/20230112_ofn_notification.gif" width="200"/>
 - 강사(좌), 프로그램(우) 화면
   
 
- ![강사 화면](/assets/images/20230112_ofn_instructor.gif?msec=1673507020778){: width="50%"} ![프로그램](/assets/images/20230112_ofn_program.gif?msec=1673507020778){: width="50%"}
+ <img src="/assets/images/20230112_ofn_instructor.gif" width="200"/> <img src="/assets/images/20230112_ofn_program.gif" width="200"/>
 
 - 로그인(좌), 홈(우) 화면
   
 
- ![로그인](/assets/images/20230112_ofn_login.gif?msec=1673507020778){: width="50%"} ![홈 화면](/assets/images/20230112_ofn_home.gif?msec=1673507020778){: width="50%"}
+ <img src="/assets/images/20230112_ofn_login.gif" width="200"/> <img src="/assets/images/20230112_ofn_home.gif" width="200"/>
 
 ## 발생문제 및 해결방법
 
