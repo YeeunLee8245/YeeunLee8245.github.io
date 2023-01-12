@@ -14,8 +14,6 @@ tags:
 last_modified_at: 2023-01-12
 ---
 
-# Orange Football Network: OFN
-
 ## 소개
 
 유럽 축구 전문가들의 노하우를 전 세계로 전달하는 서비스<br/>
@@ -83,11 +81,12 @@ last_modified_at: 2023-01-12
 
 ## 발생문제 및 해결방법
 
-각각의 이슈와 대응했던 방법은 다음과 같습니다.
+각각의 이슈와 대응했던 방법은 다음과 같습니다.<br/>
 
 1. Bottom Navigation 탭을 통해 화면 이동 시, 과거에 로딩 되었던 화면의 데이터가 유지되지않고 재로딩 되는 이슈 발생
   
   → 화면의 ViewModel 클래스에 LiveData를 통해 보여줄 데이터를 저장하도록 하고, 화면이 다시 보여질 때 observe를 통해 LiveData의 데이터를 사용자에게 보여지게 함
+  
   
 2. 한 화면에서 무한 스크롤이 가능한 각각의 RecyclerView 스크롤을 통일하기 위해 NestedScrollView 사용시 메모리 이슈 발생
   
