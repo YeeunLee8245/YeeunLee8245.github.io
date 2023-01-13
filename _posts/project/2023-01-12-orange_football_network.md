@@ -35,11 +35,11 @@ last_modified_at: 2023-01-12
 
 ## 주요 개발 스킬
 
-- Retrofit/OkHttp for networking
+- Retrofit2/OkHttp3 for networking
   
 - MVVM for Design Pattern
   
-- Coroutines/Flow for Asynchronous
+- Coroutine/Flow for Asynchronous
   
 - Glide for Loading images
   
