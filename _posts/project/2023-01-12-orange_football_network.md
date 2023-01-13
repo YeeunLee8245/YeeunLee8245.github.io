@@ -1,6 +1,6 @@
 ---
 title:  "Orange Football Network: OFN"
-excerpt: "project, 인턴"
+excerpt: "학기 중 현장실습(인턴)으로 근무했던 오렌지풋볼네트워크에서 제작한 앱 프로젝트"
 toc: true
 toc_sticky: true
 toc_label: "페이지 목차"
@@ -10,7 +10,7 @@ header:
 categories:
   - Project
 tags:
-  - project
+  - project, 인턴
 last_modified_at: 2023-01-12
 ---
 
