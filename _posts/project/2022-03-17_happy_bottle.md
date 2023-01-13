@@ -22,6 +22,7 @@ last_modified_at: 2022-03-17
 
 2022/09/01 → 2022/12/31<br/>
 
+
 ## 주요 역할 및 담당
 
 기획, 안드로이드 앱 개발<br/>
@@ -69,7 +70,11 @@ last_modified_at: 2022-03-17
 
 발생한 이슈와 대응했던 방법은 다음과 같습니다.<br/>
 
-- Bottom Navigation 탭을 통해 화면 이동 시, 과거에 로딩 되었던 Paging3의 PagingSource 데이터가 유지되지않고 재로딩 되는 이슈 발생
+- 안드로이드 버전 12 업데이트 이후 발생된 푸시 알림를 클릭하면 앱 크러시 발생
   
-  → 화면의 ViewModel 클래스에서 LiveData를 통해 화면으로 보여줄 PagingSource의 Flow를 저장합니다. 그 후, 화면이 다시 보여질 때 observe를 통해 기존의 LiveData의 데이터를 사용하는 것으로 해결하였습니다.
- 
+  → 푸시 알림 클릭 시 액티비티 이동을 위해 PendingIntent를 사용할 때 Flag를 지정하지 않아서 발생한 이슈였습니다. 안드로이드 버전 12부터 PendingIntent 객체의 변경 가능 여부를 반드시 명시적으로 지정해야하기 때문에 Flag를 지정했습니다. 해당 앱의 Notification은 단순히 텍스트로 정보를 알리고 클릭 시 정보 화면으로 이동하는 것이 전부이기 때문에 PendingIntent.FLAG_IMMUTABLE를 지정하는 것으로 해결하였습니다. 
+  
+## 관련 링크
+
+- [Google Play](https://play.google.com/store/apps/details?id=kr.co.yeeunlee.own.project1.mywriting&hl=ko)
+- [Github](https://github.com/YeeunLee8245/HappyBottle-Android)
