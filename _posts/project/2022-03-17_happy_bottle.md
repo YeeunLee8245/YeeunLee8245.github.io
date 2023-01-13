@@ -52,7 +52,7 @@ last_modified_at: 2022-03-17
 - 홈(좌), 설정(우) 화면
   
 
-<img src="/assets/images/20220317_happy_bottle_home.jpeg" width="200"/> <img src="/assets/images/20220317_happy_bottle_settings.jpeg" width="200"/>
+<img src="/assets/images/20220317_happy_bottle_home.gif" width="200"/> <img src="/assets/images/20220317_happy_bottle_settings.jpeg" width="200"/>
 
 - 받은 쪽지함(좌), 받은 쪽지 확인(중), 전송할 쪽지 쓰기(우) 화면
   
