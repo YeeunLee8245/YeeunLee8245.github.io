@@ -1,5 +1,5 @@
 ---
-title:  "행복저금통"
+title:  "사소하지만 소중한 행복: 행복저금통"
 excerpt: "대학교 3학년 겨울 방학 기간에 진행한 개인 앱 프로젝트"
 toc: true
 toc_sticky: true
