@@ -39,7 +39,7 @@ last_modified_at: 2023-01-12
   
 - MVVM for Design Pattern
   
-- Coroutines/Flow for asynchronous
+- Coroutines/Flow for Asynchronous
   
 - Glide for Loading images
   
