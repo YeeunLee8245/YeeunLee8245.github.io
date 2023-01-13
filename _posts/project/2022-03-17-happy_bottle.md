@@ -6,7 +6,6 @@ toc_sticky: true
 toc_label: "페이지 목차"
 header:
   teaser: /assets/images/20220317_happ_bottle_app.webp
-
 categories:
   - Project
 tags:
