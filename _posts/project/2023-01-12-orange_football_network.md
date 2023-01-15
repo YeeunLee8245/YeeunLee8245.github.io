@@ -10,7 +10,8 @@ header:
 categories:
   - Project
 tags:
-  - project, 인턴
+  - project
+  - 인턴
 last_modified_at: 2023-01-12
 ---
 
