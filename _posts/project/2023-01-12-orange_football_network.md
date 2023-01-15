@@ -90,4 +90,4 @@ last_modified_at: 2023-01-12
   
 - 한 화면에서 무한 스크롤이 가능한 각각의 RecyclerView 스크롤을 통일하기 위해 NestedScrollView 사용시 메모리 이슈 발생
   
-  → 스크롤이 RecyclerView에 도달하였을 때 View를 생성하기 위해 ConcatAdapter를 사용하여 표시할 RecyclerView를 결합하고 RecyclerView에서 무한 스크롤이 가능할 수 있도록 Jetpack Paging3를 사용하여 구현하여 해결하였습니다.
+  → 스크롤이 RecyclerView에 도달하였을 때 View를 생성하기 위해 RecyclerView의 Adapter 중 하나인 ConcatAdapter를 사용하여 표시할 RecyclerView를 결합하고 RecyclerView에서 무한 스크롤이 가능할 수 있도록 Jetpack Paging3를 사용하여 구현하여 해결하였습니다.
