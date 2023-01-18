@@ -75,5 +75,5 @@ last_modified_at: 2022-03-17
   
 ## 관련 링크
 
-- [Google Play](https://play.google.com/store/apps/details?id=kr.co.yeeunlee.own.project1.mywriting&hl=ko)
+- [Google Play](https://play.google.com/store/apps/details?id=kr.co.yeeunlee.own.project1.mywriting&hl=ko) **2023.01.18 업데이트: 개인정보방침 관련으로 앱 재검토 중인 관계로 잠시 내려가있습니다. 승인이 되면 다시 글을 업데이트하겠습니다.**
 - [Github](https://github.com/YeeunLee8245/HappyBottle-Android)
