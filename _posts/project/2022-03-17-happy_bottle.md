@@ -64,14 +64,6 @@ last_modified_at: 2022-03-17
 
 <img src="/assets/images/20220317_happy_bottle_check_bottle.jpeg" width="200"/> <img src="/assets/images/20220317_happy_bottle_check_save_msg.jpeg" width="200"/> <img src="/assets/images/20220317_happy_bottle_confirm_save_msg.jpeg" width="200"/>
 
-
-## 발생문제 및 해결방법
-
-발생한 이슈와 대응했던 방법은 다음과 같습니다.<br/>
-
-- 안드로이드 버전 12 업데이트 이후 발생된 푸시 알림를 클릭하면 앱 크러시 발생
-  
-  → 푸시 알림 클릭 시 액티비티 이동을 위해 PendingIntent를 사용할 때 Flag를 지정하지 않아서 발생한 이슈였습니다. 안드로이드 버전 12부터 PendingIntent 객체의 변경 가능 여부를 반드시 명시적으로 지정해야하기 때문에 Flag를 지정했습니다. 해당 앱의 Notification은 단순히 텍스트로 정보를 알리고 클릭 시 정보 화면으로 이동하는 것이 전부이기 때문에 PendingIntent.FLAG_IMMUTABLE를 지정하는 것으로 해결하였습니다. 
   
 ## 관련 링크
 
